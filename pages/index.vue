@@ -2,9 +2,11 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title bg-blue-200">
+      <h1 class="bg-blue-200 w-32">
         florianNgbala.github.io
       </h1>
+      <img
+          src="../assets/images/vue.png" class="w-12 h-12 mx-auto mt-3"/>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -12,6 +14,8 @@
           rel="noopener noreferrer"
           class="button--green"
         >
+
+        
           Documentation
         </a>
         <a
